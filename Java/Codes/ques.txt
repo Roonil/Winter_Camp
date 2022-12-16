@@ -1,0 +1,2 @@
+4. replace chars with their occurences
+5. find longest substr w/o repeated char
